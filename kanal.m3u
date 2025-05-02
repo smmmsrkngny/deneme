@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/guides/tr-TR.xml.gz"
+
+#############################
+### 🇹🇷 TÜRKİYE ULUSAL KANALLAR ###
+#############################
+
+#EXTINF:-1 tvg-id="TRT1" tvg-logo="https://i.imgur.com/JnX4fNk.png" group-title="TÜRKİYE",TRT 1
+http://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ATV" tvg-logo="https://i.imgur.com/mR6YzqX.png" group-title="TÜRKİYE",ATV
+https://atv.mediatriple.net/video/live/atv/smil:atv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV" tvg-logo="https://i.imgur.com/L8VhBQd.png" group-title="TÜRKİYE",Show TV
+https://showtv.mediatriple.net/video/live/showtv/smil:showtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarTV" tvg-logo="https://i.imgur.com/cde456.png" group-title="TÜRKİYE",Star TV
+https://startv.mediatriple.net/master.m3u8
+
+#EXTINF:-1 tvg-id="KanalD" tvg-logo="https://i.imgur.com/bcd123.png" group-title="TÜRKİYE",Kanal D
+https://kanald.mediatriple.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Fox" tvg-logo="https://i.imgur.com/efg789.png" group-title="TÜRKİYE",FOX
+https://fox.mediatriple.net/master.m3u8
+
+#EXTINF:-1 tvg-id="TV8" tvg-logo="https://i.imgur.com/hij456.png" group-title="TÜRKİYE",TV8
+https://tv8.mediatriple.net/master.m3u8
+
+#############################
+### 📰 HABER KANALLARI ###
+#############################
+
+#EXTINF:-1 tvg-id="CNN Turk" tvg-logo="https://i.imgur.com/pqr901.png" group-title="HABER",CNN Türk
+https://cnnturk.mediatriple.net/master.m3u8
+
+#EXTINF:-1 tvg-id="NTV" tvg-logo="https://i.imgur.com/mno678.png" group-title="HABER",NTV
+https://ntvblgsd.mediatriple.net/ntv/smil:ntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Haberturk" tvg-logo="https://i.imgur.com/jkl345.png" group-title="HABER",Habertürk TV
+https://haberturk-video-weblive.hurriyet.com.tr/master.m3u8
+
+#############################
+### ⚽ SPOR KANALLARI ###
+#############################
+
+#EXTINF:-1 tvg-id="BeinSports1" tvg-logo="https://i.imgur.com/stu234.png" group-title="SPOR",Bein Sports 1
+https://bein01.akamaized.net/media/live/beinsports1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A Spor" tvg-logo="https://i.imgur.com/yza890.png" group-title="SPOR",A Spor
+https://aspor.mediatriple.net/master.m3u8
+
+#############################
+### 🎥 BELGESEL KANALLARI ###
+#############################
+
+#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://i.imgur.com/fgh012.png" group-title="BELGESEL",Discovery Channel
+https://discovery.mediatriple.net/master.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo" tvg-logo="https://i.imgur.com/hij345.png" group-title="BELGESEL",National Geographic
+https://natgeo.mediatriple.net/master.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-logo="https://i.imgur.com/klm678.png" group-title="BELGESEL",History Channel
+https://history.mediatriple.net/master.m3u8
+
+#EXTINF:-1 tvg-id="BBCEarth" tvg-logo="https://i.imgur.com/lmn901.png" group-title="BELGESEL",BBC Earth
+https://bbcearth.mediatriple.net/master.m3u8
+
+#############################
+### 🇲🇦 MOROCCO 2M ###
+#############################
+
+#EXTINF:-1 tvg-id="2M" tvg-logo="https://i.imgur.com/xyz123.png" group-title="ULUSLARARASI",2M Maroc
+https://2m-video.akamaized.net/2m/smil:2m.smil/playlist.m3u8
